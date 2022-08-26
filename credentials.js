@@ -1,8 +1,8 @@
 var credentials ={
 
 	credentials: {
-		client_id: 'w60MNKC2EJfOuAZ9dDSRoGpahhaycVM1',
-		client_secret: 'YqFQYEnm6iPbFZfI',
+		client_id: 'add your forge app client id',
+		client_secret: 'add your forge app client secret',
 		grant_type: 'client_credentials',
 		scope: 'viewables:read',
 
